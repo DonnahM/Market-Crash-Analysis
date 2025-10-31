@@ -1,16 +1,16 @@
-# 📉 Market Crash Analysis & Early Warning System (EWS)
+# Market Crash Analysis & Early Warning System (EWS)
 
 A data-driven analysis of market crashes using historical Sensex data and synthetic future trends, with an early warning system (EWS) based on volatility and return dynamics.
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 This project focuses on analyzing market crashes and developing an Early Warning System (EWS) that identifies potential signs of downturns based on historical data patterns. By studying how markets behave before, during, and after crashes, this analysis aims to better understand risk dynamics and detect signals that could help anticipate future declines.
 
 ---
 
-## 💼 Business Problem
+## Business Problem
 
 Financial markets are inherently volatile, and sudden crashes can result in severe losses for investors, institutions, and businesses. Detecting warning signals before such events can help mitigate risks and improve decision-making.
 
@@ -22,7 +22,7 @@ Financial markets are inherently volatile, and sudden crashes can result in seve
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The analysis uses historical market data (such as Sensex closing prices) and a synthetic dataset for 2025 to simulate potential market conditions.
 
@@ -36,7 +36,7 @@ The analysis uses historical market data (such as Sensex closing prices) and a s
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 **1. Market Crash Identification**  
 Crashes are detected using daily percentage changes and drawdown methods.  
@@ -57,7 +57,7 @@ The signals are plotted on the closing price chart to visualize potential risk p
 
 ---
 
-## 🖼️ Visualization Preview
+## Visualization Preview
 
 Below is one of the key visualizations showing the relationship between closing prices, daily returns, and drawdown levels during crash periods.
 
@@ -73,7 +73,7 @@ Below is one of the key visualizations showing the relationship between closing 
 
 ---
 
-## 🧮 Summary & Conclusion
+## Summary & Conclusion
 
 Through this analysis, the following were achieved:
 
@@ -86,7 +86,7 @@ This project demonstrates how combining statistical indicators and visualization
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - `Market_Crash_Analysis.ipynb` — Jupyter notebook with full analysis and visualizations  
 - `sensex.csv` — Dataset used for analysis  
